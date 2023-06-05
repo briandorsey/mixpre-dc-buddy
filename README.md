@@ -3,10 +3,15 @@ DIY MixPre DC power input with SD card access
 
 Just the raw design files for now, more detailed explanation to come. 
 
-# Enclosure
-Original design (for modification): [OnShape CAD design](https://cad.onshape.com/documents/e7739d92300af53f02275ff7/w/248d08b423cc89cecde0d110/e/cee79aee639158bf5676ad06?renderMode=0&uiState=640cdf0f5e70ba02e0ce10b2)
+# Enclosures
+## MixPre-6 (tested with original and II) ##
+CAD design (for modification): [OnShape CAD design](https://cad.onshape.com/documents/e7739d92300af53f02275ff7/w/248d08b423cc89cecde0d110/e/cee79aee639158bf5676ad06?renderMode=0&uiState=640cdf0f5e70ba02e0ce10b2)
 
-Exported STL files, for the most recent tested version are in the [enclosure](enclosure/) folder in this repository.
+## MixPre-10 II (only tested with II) ##
+CAD design (for modification): [OnShape CAD design](https://cad.onshape.com/documents/4ef6d3906812bf3536cbb43d/w/248db6d6cbcd430f5a7117a5/e/79ca3db3f0302a02e4c7c82f?renderMode=0&uiState=647d68665326cc1f6f4271ab)
+
+## STL files ## 
+Exported STL files, for the most recent tested version are in the enclosure folders in this repository.
 
 # parts list
 
